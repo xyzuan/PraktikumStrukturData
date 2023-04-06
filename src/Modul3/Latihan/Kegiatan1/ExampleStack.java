@@ -1,4 +1,4 @@
-package Modul3.Latihan;
+package Modul3.Latihan.Kegiatan1;
 
 import java.util.Stack;
 
@@ -16,15 +16,15 @@ public class ExampleStack {
         System.out.println(st.pop());
         System.out.println(st.pop());
         System.out.println(st.pop());
-//        st.push("!");
-//
-//        int count = st.search("Aku");
-//        while (count != -1 && count > 1){
-//            st.pop();
-//            count--;
-//        }
-//
-//        System.out.println(st.pop());
-//        System.out.println(st.empty());
+        st.push("!");
+
+        int count = st.search("Aku");
+        while (count != -1 && count > 1){
+            st.pop();
+            count--;
+        }
+
+        System.out.println(st.pop());
+        System.out.println(st.empty());
     }
 }
