@@ -60,26 +60,13 @@
       <recent name="X:\Kuliah\SMT 4\StrukturData\Modul1\src\Modul1\Latihan" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ExampleStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul3.Latihan.Kegiatan1.ExampleStack" />
+  <component name="RunManager" selected="Application.Mahasiswa">
+    <configuration name="Mahasiswa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul4.Latihan.Mahasiswa" />
       <module name="Modul1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul3.Latihan.Kegiatan1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul3.Latihan.Kegiatan2.MainQueue" />
-      <module name="Modul1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Modul3.Latihan.Kegiatan2.*" />
+          <option name="PATTERN" value="Modul4.Latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +80,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Modul2.Praktikum.Kegiatan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul3.Latihan.Kegiatan2.MainQueue" />
+      <module name="Modul1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul3.Latihan.Kegiatan2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +126,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mahasiswa" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
