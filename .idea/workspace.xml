@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bb5c1a1-04b5-46ae-b6d4-e88e42cf2da0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bb5c1a1-04b5-46ae-b6d4-e88e42cf2da0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,13 +59,26 @@
       <recent name="X:\Kuliah\SMT 4\StrukturData\Modul1\src\Modul1\Latihan" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul4.Praktikum.Driver" />
+  <component name="RunManager" selected="Application.RouteGraph">
+    <configuration name="BFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.Latihan.BFSTraversal" />
       <module name="Modul1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul4.Praktikum.*" />
+          <option name="PATTERN" value="Modul6.Latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFSTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.Latihan.DFSTraversal" />
+      <module name="Modul1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul6.Latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Modul4.Experiment.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul4.Experiment.Driver" />
+    <configuration name="RouteGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul6.Praktikum.RouteGraph" />
       <module name="Modul1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modul4.Experiment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="royan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul4.Experiment.royan" />
-      <module name="Modul1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Modul4.Experiment.*" />
+          <option name="PATTERN" value="Modul6.Praktikum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RouteGraph" />
+        <item itemvalue="Application.DFSTraversal" />
+        <item itemvalue="Application.BFSTraversal" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Gateway" />
-        <item itemvalue="Application.royan" />
-        <item itemvalue="Application.Modul4.Experiment.Driver" />
-        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +153,7 @@
       <workItem from="1683507293974" duration="16309000" />
       <workItem from="1683764356505" duration="1967000" />
       <workItem from="1684974562386" duration="765000" />
+      <workItem from="1686753218100" duration="2642000" />
     </task>
     <servers />
   </component>
